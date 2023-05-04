@@ -1,0 +1,10 @@
+{'nro_viaje': '1464', 'nro_vuelo': '1001', 'nro_serie': '2345678901', 'fecha': datetime.date(2022, 5, 23), 'pasajeros': ['12345678'], 'contador_pasajeros': 1}
+{'nro_viaje': '2746', 'nro_vuelo': '1002', 'nro_serie': '4567890123', 'fecha': datetime.date(2022, 5, 23), 'pasajeros': ['23456789'], 'contador_pasajeros': 1}
+{'nro_viaje': '3578', 'nro_vuelo': '1003', 'nro_serie': '2345678901', 'fecha': datetime.date(2023, 3, 5), 'pasajeros': ['34567890'], 'contador_pasajeros': 1}
+{'nro_viaje': '4390', 'nro_vuelo': '1004', 'nro_serie': '8901234567', 'fecha': datetime.date(2023, 4, 17), 'pasajeros': ['45678901'], 'contador_pasajeros': 1}
+{'nro_viaje': '4545', 'nro_vuelo': '1005', 'nro_serie': '6789012345', 'fecha': datetime.date(2023, 5, 9), 'pasajeros': ['56789012'], 'contador_pasajeros': 1}
+{'nro_viaje': '2368', 'nro_vuelo': '1006', 'nro_serie': '2345678901', 'fecha': datetime.date(2024, 12, 11), 'pasajeros': ['67890123'], 'contador_pasajeros': 1}
+{'nro_viaje': '2356', 'nro_vuelo': '1007', 'nro_serie': '4567890123', 'fecha': datetime.date(2023, 5, 13), 'pasajeros': ['78901234'], 'contador_pasajeros': 1}
+{'nro_viaje': '8765', 'nro_vuelo': '1008', 'nro_serie': '2345678901', 'fecha': datetime.date(2023, 8, 15), 'pasajeros': ['89012345'], 'contador_pasajeros': 1}
+{'nro_viaje': '3568', 'nro_vuelo': '1009', 'nro_serie': '1234567891', 'fecha': datetime.date(2023, 2, 17), 'pasajeros': ['90123456'], 'contador_pasajeros': 1}
+{'nro_viaje': '0965', 'nro_vuelo': '1010', 'nro_serie': '2345678901', 'fecha': datetime.date(2023, 5, 19), 'pasajeros': ['67899123'], 'contador_pasajeros': 1}

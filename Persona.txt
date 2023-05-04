@@ -1,0 +1,20 @@
+{'DNI': '12345678', 'nombre': 'Ana', 'apellido': 'Fangio', 'sexo': 'Femenino', 'fecha_de_nacimiento': datetime.date(1988, 4, 15), 'pais': 'España', 'mail': 'ana@gmail.com', 'telefono': '1111111111'}
+{'DNI': '23456789', 'nombre': 'Juan Bautista', 'apellido': 'Alberdi', 'sexo': 'Masculino', 'fecha_de_nacimiento': datetime.date(1995, 6, 27), 'pais': 'Argentina', 'mail': 'juan@gmail.com', 'telefono': '1234567890'}
+{'DNI': '34567890', 'nombre': 'Luisa', 'apellido': 'Risso', 'sexo': 'Femenino', 'fecha_de_nacimiento': datetime.date(1982, 8, 2), 'pais': 'México', 'mail': 'luisa@gmail.com', 'telefono': '2345678901'}
+{'DNI': '45678901', 'nombre': 'Pedro', 'apellido': 'Abascal', 'sexo': 'Masculino', 'fecha_de_nacimiento': datetime.date(1998, 10, 11), 'pais': 'Francia', 'mail': 'pedro@gmail.com', 'telefono': '3456789012'}
+{'DNI': '56789012', 'nombre': 'Lucía', 'apellido': 'Nagatomo', 'sexo': 'Femenino', 'fecha_de_nacimiento': datetime.date(1975, 12, 4), 'pais': 'Japón', 'mail': 'lucia@gmail.com', 'telefono': '4567890123'}
+{'DNI': '67899123', 'nombre': 'Lucía', 'apellido': 'Fernández', 'sexo': 'Femenino', 'fecha_de_nacimiento': datetime.date(1993, 3, 25), 'pais': 'Brasil', 'mail': 'lucia2@gmail.com', 'telefono': '567801234'}
+{'DNI': '67890123', 'nombre': 'Sofía', 'apellido': 'Venegas', 'sexo': 'Femenino', 'fecha_de_nacimiento': datetime.date(1986, 2, 20), 'pais': 'Brasil', 'mail': 'sofia@gmail.com', 'telefono': '6789012345'}
+{'DNI': '78901234', 'nombre': 'Javier', 'apellido': 'Ielim', 'sexo': 'Masculino', 'fecha_de_nacimiento': datetime.date(1992, 7, 8), 'pais': 'Rusia', 'mail': 'javier12@gmail.com', 'telefono': '7890123456'}
+{'DNI': '89012345', 'nombre': 'Carla', 'apellido': 'Yema', 'sexo': 'Femenino', 'fecha_de_nacimiento': datetime.date(1978, 9, 18), 'pais': 'Canadá', 'mail': 'carla@gamil.com', 'telefono': '8901234567'}
+{'DNI': '90123456', 'nombre': 'Pablo', 'apellido': 'Leuco', 'sexo': 'Masculino', 'fecha_de_nacimiento': datetime.date(1980, 5, 29), 'pais': 'Australia', 'mail': 'pablo@gmail.com', 'telefono': '9012345678'}
+{'DNI': '12345678', 'nombre': 'Ana', 'apellido': 'Fangio', 'sexo': 'Femenino', 'fecha_de_nacimiento': datetime.date(1988, 4, 15), 'pais': 'España', 'mail': 'ana@gmail.com', 'telefono': '1111111111'}
+{'DNI': '23456789', 'nombre': 'Juan Bautista', 'apellido': 'Alberdi', 'sexo': 'Masculino', 'fecha_de_nacimiento': datetime.date(1995, 6, 27), 'pais': 'Argentina', 'mail': 'juan@gmail.com', 'telefono': '1234567890'}
+{'DNI': '34567890', 'nombre': 'Luisa', 'apellido': 'Risso', 'sexo': 'Femenino', 'fecha_de_nacimiento': datetime.date(1982, 8, 2), 'pais': 'México', 'mail': 'luisa@gmail.com', 'telefono': '2345678901'}
+{'DNI': '45678901', 'nombre': 'Pedro', 'apellido': 'Abascal', 'sexo': 'Masculino', 'fecha_de_nacimiento': datetime.date(1998, 10, 11), 'pais': 'Francia', 'mail': 'pedro@gmail.com', 'telefono': '3456789012'}
+{'DNI': '56789012', 'nombre': 'Lucía', 'apellido': 'Nagatomo', 'sexo': 'Femenino', 'fecha_de_nacimiento': datetime.date(1975, 12, 4), 'pais': 'Japón', 'mail': 'lucia@gmail.com', 'telefono': '4567890123'}
+{'DNI': '67899123', 'nombre': 'Lucía', 'apellido': 'Fernández', 'sexo': 'Femenino', 'fecha_de_nacimiento': datetime.date(1993, 3, 25), 'pais': 'Brasil', 'mail': 'lucia2@gmail.com', 'telefono': '567801234'}
+{'DNI': '67890123', 'nombre': 'Sofía', 'apellido': 'Venegas', 'sexo': 'Femenino', 'fecha_de_nacimiento': datetime.date(1986, 2, 20), 'pais': 'Brasil', 'mail': 'sofia@gmail.com', 'telefono': '6789012345'}
+{'DNI': '78901234', 'nombre': 'Javier', 'apellido': 'Ielim', 'sexo': 'Masculino', 'fecha_de_nacimiento': datetime.date(1992, 7, 8), 'pais': 'Rusia', 'mail': 'javier12@gmail.com', 'telefono': '7890123456'}
+{'DNI': '89012345', 'nombre': 'Carla', 'apellido': 'Yema', 'sexo': 'Femenino', 'fecha_de_nacimiento': datetime.date(1978, 9, 18), 'pais': 'Canadá', 'mail': 'carla@gamil.com', 'telefono': '8901234567'}
+{'DNI': '90123456', 'nombre': 'Pablo', 'apellido': 'Leuco', 'sexo': 'Masculino', 'fecha_de_nacimiento': datetime.date(1980, 5, 29), 'pais': 'Australia', 'mail': 'pablo@gmail.com', 'telefono': '9012345678'}
